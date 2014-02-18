@@ -1,0 +1,9 @@
+---
+applications:
+- name: cftest
+  memory: 512MB
+  instances: 1
+  host: cftest
+  domain: 184.73.190.148.xip.io
+  path: .
+  command: ''
